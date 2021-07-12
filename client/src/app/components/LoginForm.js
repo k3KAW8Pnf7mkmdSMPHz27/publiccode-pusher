@@ -19,7 +19,7 @@ const LoginForm = props => (
             value={ props.targetRepo }
             onChange={ ev => props.handleTextInput(ev) }
         />
-        <button className="editor_button editor_button--primary" >Login to GitHub</button>
+        <button className="editor_button editor_button--primary" >Try to login to GitHub</button>
     </form>
 )
 
