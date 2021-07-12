@@ -54,10 +54,10 @@ class head extends Component {
           <div className="content__head__help">
             <div>
               <a className="pr-5" href={privacyPolicyUrl} rel="noopener noreferrer" target="_blank">
-                Privacy policy
+                Defintively not a Privacy policy
               </a>
               <a href={repositoryUrl} rel="noopener noreferrer" target="_blank">
-                Need help?
+                Need a lot of help?
               </a>
             </div>
             <div>
